@@ -1,6 +1,6 @@
 # Rheo battery percentage app
 
-This is an app to simply see a Össur Rheo 
+This is an app to simply see a Össur Rheo knee's battery percentage
 
 This app has only been tested with the Össur Rheo XC
 
